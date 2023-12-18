@@ -71,8 +71,28 @@ _gifts = [
     ),
     (
         "(x1) Clean JavaScript",
-        "https://x.com/MoureDev/status/1734936817600753928?s=20",
+        "https://x.com/MoureDev/status/1735300234601812256?s=20",
         "https://amzn.to/3NkDlwX"
+    ),
+    (
+        "(x1) Hosting anual + dominio",
+        "https://x.com/MoureDev/status/1735660556357415400?s=20",
+        "https://mouredev.link/raiola"
+    ),
+    (
+        "(x1) Diseño Ágil con TDD con Python",
+        "https://x.com/MoureDev/status/1736035091720098207?s=20",
+        "https://savvily.es/libros/diseno-agil-con-tdd/"
+    ),
+    (
+        "(x2) El Último Programador: La lucha contra la IA",
+        "https://x.com/MoureDev/status/1736388829488066830?s=20",
+        "https://amzn.to/3RroYYR"
+    ),
+    (
+        "(x2) Ultimate Docker",
+        "https://x.com/MoureDev/status/1736389195139027068?s=20",
+        "https://academia.holamundo.io/courses/ultimate-docker"
     )
 ]
 
